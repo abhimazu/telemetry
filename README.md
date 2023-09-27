@@ -8,7 +8,9 @@ Run the following commands in the folder:
 
 
 source openvino_env/bin/activate
+
 cd demo
+
 streamlit run chat_streamlit.py
 
 
