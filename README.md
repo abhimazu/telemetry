@@ -4,7 +4,7 @@ https://github.com/OpenVINO-dev-contest/llama2.openvino
 
 Then paste the scripts and files folder from this repo inside the **demo** folder.
 
-Run the following commands in the folder:
+Run the following commands:
 
 > source openvino_env/bin/activate
 
